@@ -1,0 +1,20 @@
+1. What is your understanding of Blockchain?
+Blockchain is noting but the interconnection of two or more blocks, ecah block contains it's block number , transaction data and the previous block key.
+
+2. What is the core problem blockchain trying to solve?
+Authenticity
+Security 
+Avoid thrid person involvement in between the transaction
+
+3. What are the features that the blockchain will gives you?
+Decentralized Network
+Verifiable
+Data Transparency
+High-level security
+
+4. What does a block contain ?
+Block contains a block number, transaction data and previous block key.
+
+
+5. How is the verifiability of blockchain can be achieved ?
+The copy of the data which is stored in one block is distributed to all other blocks, if the data is changed in any of the block the data can be made proper from the remaining blocks. So, the verifiability of the blockchain is achieved.
